@@ -1,0 +1,62 @@
+﻿using DomainModels;
+using Microsoft.AspNetCore.Diagnostics;
+using Microsoft.EntityFrameworkCore;
+using MyApi.Middleware.MIddelwareVM;
+using System.Net;
+
+namespace MyApi.Middleware
+{
+    public class ExceptionMiddleware
+    {
+        private readonly RequestDelegate _next;
+
+        //private readonly ILoggerManager _logger;
+        public ExceptionMiddleware(RequestDelegate next) // , ILoggerManager logger)
+        {
+            // _logger = logger;
+            _next = next;
+        }
+        public async Task InvokeAsync(HttpContext httpContext)
+        {
+            try
+            {
+                await _next(httpContext);
+            }
+            catch (Exception ex)
+            {
+                //_logger.LogError($"Something went wrong: {ex}");
+                await HandleExceptionAsync(httpContext, ex);
+            }
+        }
+        private async Task HandleExceptionAsync(HttpContext context, Exception exception)
+        {
+            context.Response.ContentType = "application/json";
+            context.Response.StatusCode = (int)HttpStatusCode.OK;
+            await context.Response.WriteAsync(new ErrorDetails()
+            {
+                StatusCode = context.Response.StatusCode,
+                Message = "Internal Server Error from the custom middleware."
+            }.ToString());
+        }
+        //public static void ConfigureExceptionHandler(this IApplicationBuilder app)
+        //{
+        //    app.UseExceptionHandler(appError =>
+        //    {
+        //        appError.Run(async context =>
+        //        {
+        //            context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+        //            context.Response.ContentType = "application/json";
+        //            var contextFeature = context.Features.Get<IExceptionHandlerFeature>();
+        //            if (contextFeature != null)
+        //            {
+        //                await context.Response.WriteAsync(new ErrorDetails()
+        //                {
+        //                    StatusCode = context.Response.StatusCode,
+        //                    Message = "Internal Server Error."
+        //                }.ToString());
+        //            }
+        //        });
+        //    });
+        //}
+    }
+}

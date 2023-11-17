@@ -1,0 +1,865 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cerulean\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cerulean\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cerulean\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cerulean\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cerulean\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cerulean\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cerulean\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cerulean\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cerulean\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cerulean\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cerulean\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cerulean\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cosmo\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cosmo\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cosmo\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cosmo\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cosmo\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cosmo\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cosmo\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cosmo\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cosmo\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cosmo\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cosmo\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cosmo\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cyborg\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cyborg\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cyborg\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cyborg\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cyborg\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cyborg\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cyborg\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cyborg\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cyborg\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cyborg\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\cyborg\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\cyborg\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\darkly\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\darkly\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\darkly\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\darkly\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\darkly\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\darkly\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\darkly\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\darkly\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\darkly\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\darkly\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\darkly\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\darkly\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\flatly\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\flatly\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\flatly\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\flatly\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\flatly\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\flatly\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\flatly\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\flatly\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\flatly\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\flatly\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\flatly\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\flatly\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\journal\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\journal\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\journal\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\journal\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\journal\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\journal\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\journal\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\journal\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\journal\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\journal\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\journal\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\journal\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\litera\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\litera\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\litera\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\litera\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\litera\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\litera\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\litera\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\litera\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\litera\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\litera\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\litera\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\litera\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lumen\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lumen\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lumen\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lumen\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lumen\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lumen\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lumen\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lumen\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lumen\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lumen\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lumen\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lumen\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lux\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lux\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lux\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lux\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lux\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lux\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lux\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lux\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lux\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lux\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\lux\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\lux\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\materia\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\materia\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\materia\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\materia\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\materia\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\materia\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\materia\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\materia\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\materia\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\materia\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\materia\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\materia\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\minty\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\minty\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\minty\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\minty\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\minty\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\minty\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\minty\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\minty\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\minty\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\minty\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\minty\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\minty\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\morph\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\morph\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\morph\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\morph\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\morph\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\morph\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\morph\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\morph\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\morph\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\morph\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\morph\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\morph\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\pulse\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\pulse\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\pulse\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\pulse\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\pulse\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\pulse\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\pulse\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\pulse\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\pulse\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\pulse\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\pulse\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\pulse\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\quartz\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\quartz\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\quartz\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\quartz\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\quartz\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\quartz\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\quartz\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\quartz\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\quartz\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\quartz\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\quartz\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\quartz\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sandstone\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sandstone\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sandstone\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sandstone\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sandstone\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sandstone\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sandstone\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sandstone\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sandstone\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sandstone\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sandstone\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sandstone\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\simplex\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\simplex\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\simplex\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\simplex\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\simplex\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\simplex\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\simplex\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\simplex\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\simplex\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\simplex\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\simplex\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\simplex\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sketchy\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sketchy\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sketchy\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sketchy\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sketchy\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sketchy\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sketchy\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sketchy\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sketchy\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sketchy\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\sketchy\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\sketchy\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\slate\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\slate\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\slate\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\slate\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\slate\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\slate\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\slate\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\slate\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\slate\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\slate\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\slate\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\slate\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\solar\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\solar\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\solar\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\solar\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\solar\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\solar\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\solar\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\solar\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\solar\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\solar\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\solar\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\solar\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\spacelab\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\spacelab\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\spacelab\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\spacelab\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\spacelab\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\spacelab\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\spacelab\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\spacelab\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\spacelab\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\spacelab\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\spacelab\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\spacelab\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\superhero\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\superhero\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\superhero\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\superhero\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\superhero\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\superhero\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\superhero\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\superhero\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\superhero\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\superhero\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\superhero\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\superhero\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\united\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\united\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\united\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\united\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\united\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\united\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\united\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\united\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\united\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\united\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\united\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\united\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\vapor\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\vapor\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\vapor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\vapor\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\vapor\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\vapor\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\vapor\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\vapor\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\vapor\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\vapor\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\vapor\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\vapor\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\yeti\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\yeti\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\yeti\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\yeti\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\yeti\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\yeti\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\yeti\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\yeti\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\yeti\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\yeti\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\yeti\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\yeti\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\zephyr\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\zephyr\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\zephyr\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\zephyr\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\zephyr\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\zephyr\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\zephyr\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\zephyr\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\zephyr\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\zephyr\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\bootswatch\\zephyr\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootswatch\\zephyr\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FrontEndBatches\\EvsDotNet407\\Lecture 24 - (Clean Archetecture .net core)\\EVS407\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GUI.props",
+      "PackagePath": "build\\GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GUI.props",
+      "PackagePath": "buildMultiTargeting\\GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GUI.props",
+      "PackagePath": "buildTransitive\\GUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
